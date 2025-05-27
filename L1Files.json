@@ -1,0 +1,32 @@
+[
+    {
+        "FolderPath": "Category1",
+        "FileName": "sample1.pdf",
+        "PdfTextContent": "This is a sample text for Category1."
+    },
+    {
+        "FolderPath": "Category1",
+        "FileName": "sample2.pdf",
+        "PdfTextContent": "Another example document for Category1."
+    },
+    {
+        "FolderPath": "Category2",
+        "FileName": "sample3.pdf",
+        "PdfTextContent": "This is a document from Category2."
+    },
+    {
+        "FolderPath": "Category2",
+        "FileName": "sample4.pdf",
+        "PdfTextContent": "Another Category2 document."
+    },
+    {
+        "FolderPath": "Category3",
+        "FileName": "sample5.pdf",
+        "PdfTextContent": "Document for Category3."
+    },
+    {
+        "FolderPath": "Category3",
+        "FileName": "sample6.pdf",
+        "PdfTextContent": "Another example from Category3."
+    }
+]
